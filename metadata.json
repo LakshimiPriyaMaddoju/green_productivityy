@@ -1,0 +1,6 @@
+{
+  "name": "Green Productivity",
+  "description": "A daily to-do list with end-of-day progress tracking in a cozy cartoon journal aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
